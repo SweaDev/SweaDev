@@ -2,7 +2,7 @@
 
 ## :hammer_and_wrench: I’m currently working on:
 
-- [ ] 🔭 Experimenting with automating Software Engineering.
+- [ ] 🔭 Experimenting with Software Engineering Automation (SWEA).
 
 ## ✅ Recent Posts & Projects:
 
