@@ -81,7 +81,7 @@
 
 ## :clap: Credits
 
-Tools I used to create this [README.md](https://github.com/fayazmiraz/fayazmiraz/blob/main/README.md?plain=1):
+Tools I used to create this [README.md]:
 
 1. [shields.io](https://shields.io/) for tech logo images.
 
