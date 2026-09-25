@@ -1,17 +1,17 @@
 ![Hello! I'm Fayaz. Software Engineer. Thinker. Problem solver.](media/swea.dev-light.svg)
 
-## :hammer_and_wrench: I’m currently working on:
+## 🛠️ I’m currently working on:
 
 - [ ] 🔭 Experimenting with Software Engineering Automation (SWEA).
 
-## ✅ Recent Posts & Projects:
+## ✅ Top Recent Posts:
 
 1. [The 2026 Agentic Era with Gemini Agent Platform: Surviving Cascading Failures and Runaway Cloud Bills](https://dev.to/fm/the-2026-agentic-era-with-gemini-agent-platform-surviving-cascading-failures-and-runaway-cloud-1gbk).
 2. [Use Algolia MCP Server & VSCode GitHub Copilot to Find and Submit Unique Projects in Dev Challenges! ❤️‍🔥](https://dev.to/fm/use-algolia-mcp-server-vscode-github-copilot-to-submit-unique-projects-in-dev-challenges-3ph1).
 3. [State of AI in development (as of February, 2025)](https://dev.to/fm/rant-state-of-generative-ai-in-code-generation-1hej).
 4. [Where I see AI with respect to Software development by the end of 2025](https://dev.to/fm/predicting-2025-a-brave-new-world-4iip).
 
-## Recent Wins:
+## 🏆 Recent Wins:
 
 ✅ 🏆✨ Won the [Google Cloud NEXT '26 Writing Challenge](https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990) with my post [The 2026 Agentic Era with Gemini Agent Platform: Surviving Cascading Failures and Runaway Cloud Bills](https://dev.to/fm/the-2026-agentic-era-with-gemini-agent-platform-surviving-cascading-failures-and-runaway-cloud-1gbk).
 
@@ -26,11 +26,11 @@
 [![Agent building Challenge](https://github.com/user-attachments/assets/9cda50b3-04b8-43a4-baf5-634bf270df07)](https://agent.ai/agent/podcastx)
  
 
-## :joy: Fun fact:
+## 😂 Fun fact:
 
-> 🔥 If I like a GitHub repo, I ⭐ it, and if I really really like a GitHub repo, I fork it too (even if I have no plan to cotribute)!
+> 🔥 If I like a GitHub repo, I STAR ⭐ it, and if I really really like a GitHub repo, I FORK 🍴 it too (even if I have no plan to cotribute) 🤣
 
-## :tophat: My Stack:
+## 🎩 My Stack:
 
 | Programming Languages | CMS, Environments, Frameworks & Editors | OS & Tools |
 | :---                  |                  :---:                  |       ---: |
@@ -41,22 +41,20 @@
 | ![R CODE](https://img.shields.io/badge/R-CODE-blue?style=for-the-badge&logo=r "R CODE") | ![VSCode Editor](https://img.shields.io/badge/VS%E2%80%A2Code-Editor-blue?style=for-the-badge&logo=visualstudiocode "VSCode Editor") | |
 | ![Shell CLI](https://img.shields.io/badge/%F0%9F%96%A5%20Shell-Script-3b883b?style=for-the-badge "Shell Scripting") | ![Vim Editor](https://img.shields.io/badge/Vim-Editor-3b883b?style=for-the-badge&logo=vim "Vim Editor") | |
 | <a href="https://www.python.org/">![Python Programming](https://img.shields.io/badge/Python-code-3776ab?style=for-the-badge&logo=python "Python Programming")</a> | <a href="https://reactjs.org/">![React JS development](https://img.shields.io/badge/React-JS-5eb9d1?style=for-the-badge&logo=react "React JS development")</a> | |
-| <a href="https://www.typescriptlang.org/">![TypeScript Programming](https://img.shields.io/badge/TypeScript-code-blue?style=for-the-badge&logo=typescript "TypeScript Programming")</a> |  | - |
+| <a href="https://www.typescriptlang.org/">![TypeScript Programming](https://img.shields.io/badge/TypeScript-code-blue?style=for-the-badge&logo=typescript "TypeScript Programming")</a> |  |  |
 | <a href="https://www.ruby-lang.org/">![Ruby Programming](https://img.shields.io/badge/Ruby-code-870f17?style=for-the-badge&logo=ruby "Ruby Programming")</a> | | |
 
-## :pray: Learning list:
+## 📈 Learning list:
 
-| Programming Languages | Frameworks, Tools & Others |
-| :----                 |                      ----: |
-| <a href="https://soliditylang.org/">![Solidity Development](https://img.shields.io/badge/Solidity-code-191919?style=for-the-badge&logo=solidity "Solidity Development")</a> | <a href="https://en.wikipedia.org/wiki/Machine_learning">![Machine learning](https://img.shields.io/badge/%F0%9F%92%A1-ML-f89a03?style=for-the-badge&logo=AdobeIllustrator "Machine learning")</a> |
+- Learning AI deeply.
 
-## :mortar_board: Education:
+## 🎓 Education:
 
 <a href="https://en.wikipedia.org/wiki/Computer_science_and_engineering">![CSE](https://img.shields.io/badge/CSE-BSc-blue?style=for-the-badge&logo=AirPlayVideo "CSE")</a>
 
 > Bachelor of Science (BSc) in Computer Science & Engineering.
 
-## :trophy: Dev Q&A Contributions:
+## 🏆 Dev Writing Contributions & Achievements:
 
 ![Fayaz on StackExchange](https://stackexchange.com/users/flair/456021.png "Fayaz on StackExchange")
 
@@ -65,21 +63,15 @@
 - [73K+ answer views](https://www.quora.com/profile/Fayaz-Ahmed-10/) on Quora.
 
 
-## :mailbox_with_mail: Contact me:
+## 📫 Contact me:
 
-| Email | Contact Form |
-| ----- | ------------ |
-| ![Email me at mail%40fayaz.dev](https://img.shields.io/badge/email-mail%40fayaz.dev-ea4335?style=for-the-badge&logo=gmail "Email me") | <a href="https://www.fayaz.dev/contact">![Contact me at Fayaz.Dev](https://img.shields.io/badge/https:%2F%2F-Fayaz.Dev-blue?style=for-the-badge&logo=FirefoxBrowser "Contact me at Fayaz.Dev")</a> |
-
-<!--
-<a href="https://twitter.com/FayazDev"><img width="20" src="media/twitter.svg"/> @FayazDev</a>
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/FayazDev?style=for-the-badge&logo=x&logoColor=white&label=%40FayazDev&labelColor=gray&color=blue)
-
--->
+| Email | Contact Form | Social Media |
+| ----- | ------------ | ------------ |
+| ![Email me at mail%40fayaz.dev](https://img.shields.io/badge/email-mail%40fayaz.dev-ea4335?style=for-the-badge&logo=gmail "Email me") | <a href="https://www.fayaz.dev/contact">![Contact me at Fayaz.Dev](https://img.shields.io/badge/https:%2F%2F-Fayaz.Dev-blue?style=for-the-badge&logo=FirefoxBrowser "Contact me at Fayaz.Dev")</a> | <a href="https://x.com/sweadev">![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SweaDev?style=for-the-badge&logo=x&logoColor=white&label=%40SweaDev&labelColor=gray&color=blue)</a> |
 
 ---
 
-## :clap: Credits
+## 🙌 Credits
 
 Tools I used to create this [README.md]:
 
