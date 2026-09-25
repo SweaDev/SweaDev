@@ -86,7 +86,3 @@ Tools I used to create this [README.md](https://github.com/fayazmiraz/fayazmiraz
 1. [shields.io](https://shields.io/) for tech logo images.
 
 2. [shields.io](https://shields.io/) internally uses [Simple Icons](https://simpleicons.org/) for logos, so to find the appropriate logo name, search there.
-
-3. [Screenflow](https://www.telestream.net/screenflow/overview.htm) to create the banner gif.
-
-<!--[Super Tiny Icons](https://github.com/edent/SuperTinyIcons) for Twitter icon.-->
