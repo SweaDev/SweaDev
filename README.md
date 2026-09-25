@@ -1,4 +1,4 @@
-![Hello! I'm Fayaz. Software Engineer. Thinker. Problem solver.](media/swea.dev.svg)
+![Hello! I'm Fayaz. Software Engineer. Thinker. Problem solver.](media/swea.dev-light.svg)
 
 ## :hammer_and_wrench: I’m currently working on:
 
