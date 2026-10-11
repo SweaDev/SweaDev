@@ -4,12 +4,12 @@
 
 - [ ] 🔭 Experimenting with Software Engineering Automation (SWEA).
 
-## ✅ Top Recent Posts:
+## ✅ Top Recent DEV.to Posts:
 
-1. [The 2026 Agentic Era with Gemini Agent Platform: Surviving Cascading Failures and Runaway Cloud Bills](https://dev.to/fm/the-2026-agentic-era-with-gemini-agent-platform-surviving-cascading-failures-and-runaway-cloud-1gbk).
-2. [Use Algolia MCP Server & VSCode GitHub Copilot to Find and Submit Unique Projects in Dev Challenges! ❤️‍🔥](https://dev.to/fm/use-algolia-mcp-server-vscode-github-copilot-to-submit-unique-projects-in-dev-challenges-3ph1).
-3. [State of AI in development (as of February, 2025)](https://dev.to/fm/rant-state-of-generative-ai-in-code-generation-1hej).
-4. [Where I see AI with respect to Software development by the end of 2025](https://dev.to/fm/predicting-2025-a-brave-new-world-4iip).
+1. [Excessive Use of AI Does Not Take Away Your Ability of Writing Code, but ...](https://dev.to/fm/excessive-use-of-ai-doesnt-take-away-your-ability-of-writing-code-but--429).
+2. [Does Your Favorite AI Tool's Cache Hit Mean Your Project's Uniqueness Miss?](https://dev.to/fm/does-your-favorite-ai-toolss-cache-hit-mean-your-projects-uniqueness-miss-dk3).
+3. [So, We Don't Need to Learn or Use Basic Math / Arithmetic Anymore?](https://dev.to/fm/we-dont-need-to-learn-basic-math-arithmetic-anymore-3e6b).
+4. [Feeling Burnt Out? May Be You Should Read This!](https://dev.to/fm/feeling-burnt-out-may-be-you-should-read-this-2o8e).
 
 ## 🏆 Recent Wins:
 
