@@ -47,7 +47,7 @@
 
 > Bachelor of Science (BSc) in Computer Science & Engineering.
 
-## 🏆 Dev Writing Contributions & Achievements:
+## 🏆 Other Writing Contributions & Achievements:
 
 ![Fayaz on StackExchange](https://stackexchange.com/users/flair/456021.png "Fayaz on StackExchange")
 
