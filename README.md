@@ -19,9 +19,9 @@
 
 ✅ 🫡🙇‍♂️ Honerable mention in [Agent.ai Agent building Challenge on dev.to](https://dev.to/devteam/congrats-to-the-agentai-challenge-winners-5eg5)
 
-## 😂 Fun fact:
+## 😂 Fun Fact:
 
-> 🔥 If I like a GitHub repo, I STAR ⭐ it, and if I really really like a GitHub repo, I FORK 🍴 it too (even if I have no plan to cotribute) 🤣
+- 🔥 If I like a GitHub repo, I STAR ⭐ it, and if I **really** like a GitHub repo, I FORK 🍴 it too (even if I have no plan to cotribute) 🤣
 
 ## 🎩 My Stack:
 
