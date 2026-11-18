@@ -3,6 +3,7 @@
 ## 🛠️ I’m currently working on:
 
 - [ ] 🔭 Experimenting with Software Engineering Automation (SWEA).
+- [ ] ⚙️ AI Automation and Testing at Thornfield.
 
 ## ✅ Top Recent DEV.to Posts:
 
