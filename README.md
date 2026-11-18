@@ -7,8 +7,8 @@
 
 ## ✅ Top Recent DEV.to Posts:
 
-1. [Excessive Use of AI Does Not Take Away Your Ability of Writing Code, but ...](https://dev.to/fm/excessive-use-of-ai-doesnt-take-away-your-ability-of-writing-code-but--429).
-2. [Does Your Favorite AI Tool's Cache Hit Mean Your Project's Uniqueness Miss?](https://dev.to/fm/does-your-favorite-ai-toolss-cache-hit-mean-your-projects-uniqueness-miss-dk3).
+1. [Don't Stop Believing in Foundational Knowledge 🙏🏼](https://dev.to/fm/dont-stop-believing-in-foundational-knowledge-5e07).
+2. [From a Simple "Mark as Seen" to Feedgrab & Ghostify](https://dev.to/fm/from-a-simple-mark-as-seen-to-feedgrab-ghostify-story-of-my-life-33dl).
 3. [So, We Don't Need to Learn or Use Basic Math / Arithmetic Anymore?](https://dev.to/fm/we-dont-need-to-learn-basic-math-arithmetic-anymore-3e6b).
 4. [Feeling Burnt Out? May Be You Should Read This!](https://dev.to/fm/feeling-burnt-out-may-be-you-should-read-this-2o8e).
 
