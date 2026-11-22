@@ -2,8 +2,7 @@
 
 ## 🛠️ I’m currently working on:
 
-- [ ] 🔭 Experimenting with Software Engineering Automation (SWEA).
-- [ ] ⚙️ AI Automation and Testing at Thornfield.
+- [ ] 🔭 Experimenting with SWEA (Software Engineering Automation): Automating Software Engineering with AI in a way that empowers Software Engineers.
 
 ## ✅ Top Recent DEV.to Posts:
 
@@ -18,57 +17,31 @@
 
 ✅ 🏆✨ Won the [Alibaba Cloud Game Development Hackathon on Dev.to](https://dev.to/devteam/congrats-to-the-alibaba-cloud-web-game-challenge-winners-2a3m) with my Game [Robonaut's Quest to Black Hole](https://dev.to/fm/robonauts-quest-on-alibaba-cloud-497l).
 
-✅ 🫡🙇‍♂️ Honerable mention in [Agent.ai Agent building Challenge on dev.to](https://dev.to/devteam/congrats-to-the-agentai-challenge-winners-5eg5)
 
-## 😂 Fun Fact:
+## 🎩 Skills/Languages
 
-- 🔥 If I like a GitHub repo, I STAR ⭐ it, and if I **really** like a GitHub repo, I FORK 🍴 it too (even if I have no plan to cotribute) 🤣
+- **High Level Skills:** Software Architecture, Writing, Problem Solving.
 
-## 🎩 My Stack:
-
-| Programming Languages | CMS, Environments, Frameworks & Editors | OS & Tools |
-| :---                  |                  :---:                  |       ---: |
-| ![JavaScript CODE](https://img.shields.io/badge/JavaScript-CODE-f7df1f?style=for-the-badge&logo=javascript "JavaScript CODE") | ![WordPress CMS](https://img.shields.io/badge/WordPress-CMS-blue?style=for-the-badge&logo=wordpress "WordPress CMS") | ![Ubuntu OS](https://img.shields.io/badge/Ubuntu-OS-e95420?style=for-the-badge&logo=ubuntu "Ubuntu OS") |
-| ![PHP CODE](https://img.shields.io/badge/PHP-CODE-777bb4?style=for-the-badge&logo=php "PHP CODE") | ![Node.js Runtime Environment](https://img.shields.io/badge/Node.js-ENV-3b883b?style=for-the-badge&logo=node.js "Node.js Runtime Environment") | ![Mac OS](https://img.shields.io/badge/Mac-OS-blue?style=for-the-badge&logo=apple "Mac OS") |
-| ![Java CODE](https://img.shields.io/badge/Java-CODE-blue?style=for-the-badge&logo=java "Java CODE") | ![CSS CODE](https://img.shields.io/badge/CSS-CODE-blue?style=for-the-badge&logo=css3 "CSS CODE") | ![Android](https://img.shields.io/badge/Android-OS-3b883b?style=for-the-badge&logo=android "Android OS")  |
-| ![C CODE](https://img.shields.io/badge/%2FC++-CODE-3b883b?style=for-the-badge&logo=c "C/C++ CODE")  | ![HTML CODE](https://img.shields.io/badge/HTML-CODE-e34f27?style=for-the-badge&logo=html5 "HTML CODE") | ![Audacity](https://img.shields.io/badge/Audacity-Tool-0024da?style=for-the-badge&logo=Audacity "Audacity") |
-| ![R CODE](https://img.shields.io/badge/R-CODE-blue?style=for-the-badge&logo=r "R CODE") | ![VSCode Editor](https://img.shields.io/badge/VS%E2%80%A2Code-Editor-blue?style=for-the-badge&logo=visualstudiocode "VSCode Editor") | |
-| ![Shell CLI](https://img.shields.io/badge/%F0%9F%96%A5%20Shell-Script-3b883b?style=for-the-badge "Shell Scripting") | ![Vim Editor](https://img.shields.io/badge/Vim-Editor-3b883b?style=for-the-badge&logo=vim "Vim Editor") | |
-| <a href="https://www.python.org/">![Python Programming](https://img.shields.io/badge/Python-code-3776ab?style=for-the-badge&logo=python "Python Programming")</a> | <a href="https://reactjs.org/">![React JS development](https://img.shields.io/badge/React-JS-5eb9d1?style=for-the-badge&logo=react "React JS development")</a> | |
-| <a href="https://www.typescriptlang.org/">![TypeScript Programming](https://img.shields.io/badge/TypeScript-code-blue?style=for-the-badge&logo=typescript "TypeScript Programming")</a> |  |  |
-| <a href="https://www.ruby-lang.org/">![Ruby Programming](https://img.shields.io/badge/Ruby-code-870f17?style=for-the-badge&logo=ruby "Ruby Programming")</a> | | |
+- **Language Agnostic:** I've worked with so many things that at this point, I need just around two weeks to become good enough in any programming language or tool to work professionally, even without using AI.
 
 ## 📈 Learning list:
 
-- Learning AI deeply.
+- Learning AI deeply (not only as a user).
 
 ## 🎓 Education:
 
-<a href="https://en.wikipedia.org/wiki/Computer_science_and_engineering">![CSE](https://img.shields.io/badge/CSE-BSc-blue?style=for-the-badge&logo=AirPlayVideo "CSE")</a>
+Bachelor of Science (BSc) in [Computer Science & Engineering](https://en.wikipedia.org/wiki/Computer_science_and_engineering).
 
-> Bachelor of Science (BSc) in Computer Science & Engineering.
-
-## 🏆 Other Writing Contributions & Achievements:
+## ✍️ Older Writing Contributions:
 
 ![Fayaz on StackExchange](https://stackexchange.com/users/flair/456021.png "Fayaz on StackExchange")
 
 - [Answered 150+ questions](https://stackexchange.com/users/456021/fayaz) on the StackExchange Network, mostly on WordPress.
 
-- [73K+ answer views](https://www.quora.com/profile/Fayaz-Ahmed-10/) on Quora.
+- [75K+ answer views](https://www.quora.com/profile/Fayaz-Ahmed-10/) on Quora.
 
 
 ## 📫 Contact me:
 
-| Email | Contact Form | Social Media |
-| ----- | ------------ | ------------ |
-| ![Email me at mail%40fayaz.dev](https://img.shields.io/badge/email-mail%40fayaz.dev-ea4335?style=for-the-badge&logo=gmail "Email me") | <a href="https://www.fayaz.dev/contact">![Contact me at Fayaz.Dev](https://img.shields.io/badge/https:%2F%2F-Fayaz.Dev-blue?style=for-the-badge&logo=FirefoxBrowser "Contact me at Fayaz.Dev")</a> | <a href="https://x.com/sweadev">![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SweaDev?style=for-the-badge&logo=x&logoColor=white&label=%40SweaDev&labelColor=gray&color=blue)</a> |
-
----
-
-## 🙌 Credits
-
-Tools I used to create this [README.md]:
-
-1. [shields.io](https://shields.io/) for tech logo images.
-
-2. [shields.io](https://shields.io/) internally uses [Simple Icons](https://simpleicons.org/) for logos, so to find the appropriate logo name, search there.
+- [Contact form at Fayaz.Dev](https://www.fayaz.dev/contact)
+- [@sweadev on X](https://x.com/sweadev)
