@@ -12,10 +12,10 @@
 
 ## ✅ Top Recent DEV.to Posts:
 
-1. [Don't Stop Believing in Foundational Knowledge 🙏🏼](https://dev.to/fm/dont-stop-believing-in-foundational-knowledge-5e07).
-2. [From a Simple "Mark as Seen" to Feedgrab & Ghostify](https://dev.to/fm/from-a-simple-mark-as-seen-to-feedgrab-ghostify-story-of-my-life-33dl).
-3. [So, We Don't Need to Learn or Use Basic Math / Arithmetic Anymore?](https://dev.to/fm/we-dont-need-to-learn-basic-math-arithmetic-anymore-3e6b).
-4. [Feeling Burnt Out? May Be You Should Read This!](https://dev.to/fm/feeling-burnt-out-may-be-you-should-read-this-2o8e).
+- [Don't Stop Believing in Foundational Knowledge 🙏🏼](https://dev.to/fm/dont-stop-believing-in-foundational-knowledge-5e07).
+- [From a Simple "Mark as Seen" to Feedgrab & Ghostify](https://dev.to/fm/from-a-simple-mark-as-seen-to-feedgrab-ghostify-story-of-my-life-33dl).
+- [So, We Don't Need to Learn or Use Basic Math / Arithmetic Anymore?](https://dev.to/fm/we-dont-need-to-learn-basic-math-arithmetic-anymore-3e6b).
+- [Feeling Burnt Out? May Be You Should Read This!](https://dev.to/fm/feeling-burnt-out-may-be-you-should-read-this-2o8e).
 
 
 ## 🎩 Skills/Languages
