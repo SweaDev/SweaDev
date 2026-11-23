@@ -12,6 +12,7 @@
 
 ## ✅ Top Recent DEV.to Posts:
 
+- [Stand-In Studio: I Automated How Much of You Others See in Video Calls, with SmartSpectra! 📸](https://dev.to/fm/stand-in-studio-i-automated-how-much-of-you-others-see-in-video-calls-with-smartspectra-5bo8).
 - [Don't Stop Believing in Foundational Knowledge 🙏🏼](https://dev.to/fm/dont-stop-believing-in-foundational-knowledge-5e07).
 - [From a Simple "Mark as Seen" to Feedgrab & Ghostify](https://dev.to/fm/from-a-simple-mark-as-seen-to-feedgrab-ghostify-story-of-my-life-33dl).
 - [So, We Don't Need to Learn or Use Basic Math / Arithmetic Anymore?](https://dev.to/fm/we-dont-need-to-learn-basic-math-arithmetic-anymore-3e6b).
